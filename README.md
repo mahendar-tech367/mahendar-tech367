@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Kethavath Mahendar Nayak 👋
 
-<!--
-**mahendar-tech367/mahendar-tech367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) @ CBIT
 
-Here are some ideas to get you started:
+I'm on a journey to **master Artificial Intelligence & Machine Learning** by learning the fundamentals, building projects, experimenting with new ideas, and continuously improving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+* 🐍 Python
+* ☕ Java
+* 🧠 Data Structures & Algorithms
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧩 AI Agents
+* 🌐 Web Technologies
+* 🔧 Git & GitHub
+
+## 🛠️ What I'm Building
+
+I believe the best way to learn is by **building**.
+
+Currently, I'm building projects with Python and exploring **AI/ML and AI Agents**, while gradually moving toward more advanced concepts.
+
+### 📌 Projects
+
+* 🧮 **Python Calculator** — A simple project built while learning Python
+* 🏧 **ATM Cash Withdrawal** — A beginner Python project
+* 📄 **AI Resume Ranking** — Exploring AI for resume analysis
+* 🤖 **AI Math Agent** — Exploring AI Agents and tool-based reasoning
+
+## 🎯 My Goal
+
+> **Master AI & ML.**
+
+I want to deeply understand **how AI works**, build real-world AI applications, and continuously grow from the fundamentals to advanced AI/ML concepts.
+
+## 📚 My Learning Philosophy
+
+**Learn → Build → Experiment → Fail → Understand → Improve → Repeat 🔄**
+
+This GitHub is a record of my growth, projects, experiments, and everything I learn along the way.
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/mahendarnayak367/)
+* 📸 [Instagram](https://www.instagram.com/ai.withmahii/)
+
+---
+
+⭐ Thanks for visiting my profile!
