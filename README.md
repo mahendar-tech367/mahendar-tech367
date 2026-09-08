@@ -1,6 +1,6 @@
 # Hi, I'm Kethavath Mahendar Nayak 👋
 
-🎓 B.Tech CSE (AI & ML) @ CBIT
+🎓 B.E CSE (AI & ML) @ CBIT
 
 I'm on a journey to **master Artificial Intelligence & Machine Learning** by learning the fundamentals, building projects, experimenting with new ideas, and continuously improving.
 
