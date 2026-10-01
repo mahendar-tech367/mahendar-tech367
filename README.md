@@ -1,249 +1,116 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
+<img src="assets/welcome-banner.gif" alt="Animated portrait with a looping hand wave" width="100%" />
 
-<img src="./assets/mahender-ai-banner.gif" width="100%" alt="Kethavath Mahendar Nayak - AI ML Developer"/>
+<h1 style="color:#2563EB;">Kethavath Mahendar Nayak</h1>
 
-<br/>
+<p><strong>B.Tech CSE (AI &amp; ML) student at CBIT Hyderabad</strong></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+%26+ML+Learner;Python+%7C+Java+%7C+Web+%7C+Backend;Exploring+LLMs+%26+AI+Agents;Building+Real+Projects;Learning+in+Public+%F0%9F%9A%80" alt="Typing animation"/>
+<p>
+  <a href="https://github.com/mahendar-tech367">GitHub</a> ·
+  <a href="https://linkedin.com/in/mahendarnayak367/">LinkedIn</a> ·
+  <a href="https://instagram.com/withmahendar">Instagram</a>
+</p>
 
-<br/><br/>
+<p><em>Learning AI/ML, building for the web, and sharing the journey.</em></p>
+
+</div>
+
+---
+
+## About me
+
+I’m a Computer Science student specializing in Artificial Intelligence and Machine Learning at **CBIT, Hyderabad**. I’m exploring AI/ML through hands-on projects while strengthening my foundations in data structures and algorithms. I also enjoy **web design**—especially shaping clear, thoughtful interfaces—and creating content about what I learn.
+
+This profile brings together my projects, learning path, and contribution activity. I’m looking forward to documenting my future **GATE** preparation journey here as well.
+
+## What I’m learning and building
+
+- **AI & machine learning:** growing from core concepts to practical applications
+- **Data structures and algorithms:** learning, practicing, and sharing progress
+- **Web design:** creating clean, readable, user-focused experiences
+- **Content creation:** making content around AI learnings and DSA
+- **Next chapter:** preparing to share my GATE journey
+
+## Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [ResumeRanker](https://github.com/mahendar-tech367/ResumeRanker) | An AI-focused project exploring resume ranking. |
+| [ArravMath-first-AIAgent](https://github.com/mahendar-tech367/ArravMath-first-AIAgent) | An early project exploring an AI agent for math. |
+| [Calculator](https://github.com/mahendar-tech367/Calculator) | A calculator project and hands-on software build. |
+
+## Skills and interests
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-2563EB?style=flat-square" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-14B8A6?style=flat-square" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Web%20Design-2563EB?style=flat-square" alt="Web Design" />
+  <img src="https://img.shields.io/badge/Content%20Creation-14B8A6?style=flat-square" alt="Content Creation" />
+</p>
+
+My current focus is to turn what I learn into small, practical projects, improve my problem-solving step by step, and share useful takeaways along the way.
+
+## Education
+
+**B.Tech, Computer Science and Engineering (AI & ML)**  
+CBIT · Hyderabad
+
+## My journey
+
+<div align="center">
+
+`LEARN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `SHARE` &nbsp; → &nbsp; `GROW`
+
+</div>
+
+- **Now:** building my AI/ML foundations, practicing DSA, and exploring web design.
+- **Along the way:** sharing content about my learning and projects.
+- **Up next:** documenting my GATE preparation journey.
+
+## GitHub activity
+
+<div align="center">
 
 <a href="https://github.com/mahendar-tech367">
-<img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendar-tech367&amp;show_icons=true&amp;hide_border=true&amp;title_color=2563EB&amp;icon_color=14B8A6&amp;text_color=334155&amp;bg_color=ffffff" alt="Mahendar's GitHub stats" height="165" />
 </a>
-<a href="https://www.linkedin.com/in/mahendarnayak367/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://instagram.com/withmahendar">
-<img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<a href="https://github.com/mahendar-tech367">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendar-tech367&amp;layout=compact&amp;hide_border=true&amp;title_color=2563EB&amp;text_color=334155&amp;bg_color=ffffff" alt="Most used languages on GitHub" height="165" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mahendar-tech367&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
-
 </div>
 
----
+## Contribution garden
 
-## 👋 Hey, I'm Kethavath Mahendar Nayak
-
-I'm a **B.Tech CSE (AI & ML) student at CBIT, Hyderabad**, focused on learning AI deeply while building real software.
-
-### What I care about
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI, LLMs and AI Agents
-- 💻 Software and Web Development
-- 🗄️ Backend, APIs, SQL and databases
-- 🚀 Turning ideas into deployable projects
-- 🎥 Learning in public and sharing the journey
-
-> **Learn → Understand → Build → Test → Debug → Share → Improve**
-
----
-
-# 🧰 Tech Stack
-
-### Programming
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark"/>
-</p>
-
-### Web
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark"/>
-</p>
-
-### Backend • Database • Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,supabase,postgresql,sqlite,git,github&theme=dark"/>
-</p>
-
-**Also:** `REST APIs` · `SQL` · `Backend Development`
-
----
-
-# 🤖 AI Toolkit
-
-I use AI tools across **coding, research, design, learning, prototyping and product development**.
-
-### 🧑‍💻 Coding & Development
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=8B5CF6"/>
-
-</div>
-
-### 🔎 Research & Knowledge
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Perplexity-111827?style=for-the-badge&logo=perplexity&logoColor=20B2AA"/>
-<img src="https://img.shields.io/badge/Google%20Search-111827?style=for-the-badge&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/NotebookLM-111827?style=for-the-badge&logo=google&logoColor=4285F4"/>
-
-</div>
-
-### 🎨 Design & Prototyping
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-<img src="https://img.shields.io/badge/Google%20Stitch-111827?style=for-the-badge&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Moze%20AI-111827?style=for-the-badge&logoColor=38BDF8"/>
-
-</div>
-
-> **AI helps me move faster. Understanding the output helps me build better.**
-
----
-
-# 🚀 Featured Project
-
-## 🤖 ResumeRanker
-
-An AI-powered resume ranking application that analyzes resumes and ranks them using relevant skills, keywords and content.
-
-**Stack**
-
-`Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite` `Scikit-learn` `TF-IDF`
-
-**Built / learned**
-
-- PDF and DOCX processing
-- Text extraction
-- TF-IDF based matching
-- Flask backend
-- Frontend + backend integration
-- Database integration
-- Deployment
-
----
-
-# 🧠 My AI Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=700&color=14B8A6&center=true&vCenter=true&width=780&lines=Learn+the+fundamentals;Experiment+with+AI+tools;Build+real+projects;Debug+what+breaks;Share+what+I+learn;Repeat+%F0%9F%94%81" alt="AI journey animation"/>
-
-</div>
-
-I'm exploring:
-
-`Machine Learning` · `Generative AI` · `LLMs` · `Prompt Engineering` · `AI Agents` · `AI-assisted Development`
-
----
-
-# 🎥 Learning in Public
-
-I'm documenting my journey through **AI learning, development, projects and experiments with modern AI tools**.
-
-The goal is not to know everything.
-
-The goal is to **keep learning and keep building**.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahendar-tech367&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000"/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendar-tech367&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000"/>
-
-<br/><br/>
-
-<img width="58%" src="https://streak-stats.demolab.com?user=mahendar-tech367&theme=tokyonight&hide_border=true&border_radius=10&background=00000000"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahendar-tech367&theme=tokyo-night&hide_border=true&area=true&custom_title=Mahendar%27s%20Contribution%20Graph"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+These images are generated by the GitHub Actions workflows in this repository. The Snake workflow publishes its files to the `output` branch; the 3D contribution workflow generates its image in the repository. Once each workflow has run successfully, the images below will appear here.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-snake.svg" width="95%" alt="GitHub contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mahendar-tech367/mahendar-tech367/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </picture>
 
+<br />
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution profile" width="100%" />
+
 </div>
+
+## Find me
+
+- **GitHub:** [@mahendar-tech367](https://github.com/mahendar-tech367)
+- **LinkedIn:** [linkedin.com/in/mahendarnayak367](https://linkedin.com/in/mahendarnayak367/)
+- **Instagram:** [@withmahendar](https://instagram.com/withmahendar)
 
 ---
 
-# 🎯 2026 → 2029
-
 <div align="center">
-
-| Stage | Focus |
-|---|---|
-| **Now** | Programming • DSA • Web • Backend |
-| **Next** | Machine Learning • Deep Learning |
-| **Then** | LLMs • Generative AI • AI Agents |
-| **Always** | Build • Deploy • Experiment • Share |
-
+  <sub>Designed with a calm, light palette: white · royal blue <code>#2563EB</code> · teal <code>#14B8A6</code>.<br />Readable system fonts keep the profile accessible across devices.</sub>
 </div>
 
----
 
-# 💡 Engineering Mindset
 
-> **01** — Don't blindly copy AI-generated code. Understand it.  
-> **02** — Build projects instead of only collecting tutorials.  
-> **03** — Learn the fundamentals behind the tools.  
-> **04** — Experiment with new technology.  
-> **05** — Share the journey.  
-> **06** — Keep improving.
 
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-### Building something with AI? Let's connect.
-
-<br/>
-
-<a href="https://github.com/mahendar-tech367">
-<img src="https://img.shields.io/badge/GitHub-Kethavath%20Mahendar%20Nayak-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahendarnayak367/">
-<img src="https://img.shields.io/badge/LinkedIn-Mahendar-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://instagram.com/ai.withmahii">
-<img src="https://img.shields.io/badge/Instagram-Mahendar-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&width=700&lines=AI+%7C+ML+%7C+Software+Development;Learn+%E2%80%A2+Build+%E2%80%A2+Experiment+%E2%80%A2+Share" alt="Closing animation"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="./assets/mahendar-footer.gif" width="100%" alt="Keep building footer animation"/>
-
-</div>
