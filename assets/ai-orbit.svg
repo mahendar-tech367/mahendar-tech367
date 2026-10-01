@@ -16,10 +16,8 @@
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="1200" height="420" rx="28" fill="#FFFFFF"/>
 
-  <!-- Decorative grid -->
   <g opacity="0.08" stroke="#2563EB">
     <path d="M0 70 H1200"/>
     <path d="M0 140 H1200"/>
@@ -28,7 +26,6 @@
     <path d="M0 350 H1200"/>
   </g>
 
-  <!-- Main title -->
   <text x="600" y="100"
         text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
@@ -38,19 +35,15 @@
     Welcome to My AI Journey
   </text>
 
-  <!-- Subtitle -->
   <text x="600" y="140"
         text-anchor="middle"
         font-family="Arial, Helvetica, sans-serif"
         font-size="20"
         fill="#475569">
-    Kethavath Mahendar Nayak • AI/ML Learner • Web Designer
+    Kethavath Mahender Nayak • AI/ML Learner • Developer
   </text>
 
-  <!-- Orbit system -->
   <g transform="translate(600 265)">
-
-    <!-- Orbit rings -->
     <ellipse rx="250" ry="85"
              fill="none"
              stroke="#2563EB"
@@ -87,7 +80,6 @@
         repeatCount="indefinite"/>
     </ellipse>
 
-    <!-- Central AI node -->
     <circle r="55"
             fill="url(#blueTeal)"
             filter="url(#glow)">
@@ -107,48 +99,35 @@
       AI
     </text>
 
-    <!-- Orbiting nodes -->
-    <g>
-      <circle cx="250" cy="0" r="13" fill="#2563EB">
-        <animateTransform
-          attributeName="transform"
-          type="rotate"
-          from="0 0 0"
-          to="360 0 0"
-          dur="8s"
-          repeatCount="indefinite"/>
-      </circle>
+    <circle cx="250" cy="0" r="13" fill="#2563EB">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 0 0"
+        to="360 0 0"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </circle>
 
-      <circle cx="-250" cy="0" r="13" fill="#14B8A6">
-        <animateTransform
-          attributeName="transform"
-          type="rotate"
-          from="360 0 0"
-          to="0 0 0"
-          dur="10s"
-          repeatCount="indefinite"/>
-      </circle>
-    </g>
-
+    <circle cx="-250" cy="0" r="13" fill="#14B8A6">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="360 0 0"
+        to="0 0 0"
+        dur="10s"
+        repeatCount="indefinite"/>
+    </circle>
   </g>
 
-  <!-- Bottom labels -->
   <g font-family="Arial, Helvetica, sans-serif"
      font-size="16"
      font-weight="600"
      text-anchor="middle">
 
-    <text x="300" y="390" fill="#2563EB">
-      AI &amp; ML
-    </text>
-
-    <text x="600" y="390" fill="#475569">
-      DSA
-    </text>
-
-    <text x="900" y="390" fill="#14B8A6">
-      Web Design
-    </text>
+    <text x="300" y="390" fill="#2563EB">AI &amp; ML</text>
+    <text x="600" y="390" fill="#475569">DSA</text>
+    <text x="900" y="390" fill="#14B8A6">Web Development</text>
 
   </g>
 
